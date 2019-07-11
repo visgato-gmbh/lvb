@@ -14,6 +14,12 @@ Client for the [LVB](https://l.de/verkehrsbetriebe) (Leipziger Verkehrsbetriebe)
 npm install --save lvb
 ```
 
+## Run Express REST-API
+
+```shell
+node run run-express.js
+```
+
 ## Usage
 
 This package mostly returns data in the [*Friendly Public Transport Format*](https://github.com/public-transport/friendly-public-transport-format):
