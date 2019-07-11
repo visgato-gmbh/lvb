@@ -30,6 +30,8 @@
 		"test": "npm run lint && npm run check-deps && node test"
 	},
 	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
 		"fetch-ponyfill": "^6.1.0",
 		"lodash": "^4.17.11",
 		"moment-timezone": "^0.5.25",
